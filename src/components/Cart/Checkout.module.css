@@ -6,6 +6,7 @@
   
   .control {
     margin-bottom: 0.5rem;
+    overflow: auto;
   }
   
   .control label {
