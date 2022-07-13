@@ -13,6 +13,7 @@ A React application for ordering food utilizing Context API, useEffect, useState
 - Cross platform
 - checkout form 
 - form validation
+- orders are sent to a backend 
 
 
 ## Demo Images
