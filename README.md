@@ -11,6 +11,8 @@ A React application for ordering food utilizing Context API, useEffect, useState
 - conditionally rendered styles and animations
 - Pop up modal using React portal
 - Cross platform
+- checkout form 
+- form validation
 
 
 ## Demo Images
